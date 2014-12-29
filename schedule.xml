@@ -1,6 +1,7 @@
+
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.3 To overcome physical burdens</version>
+<version>1.4 Travel through time and space</version>
 <conference>
 <acronym>31c3</acronym>
 <title>31. Chaos Communication Congress</title>
@@ -126,7 +127,7 @@ On top of it you will learn about our new releases, some funny and not so funny 
 <room>Saal 1</room>
 <slug>31c3_-_6120_-_en_-_saal_1_-_201412271600_-_practical_emv_pin_interception_and_fraud_detection_-_andrea_barisani</slug>
 <recording>
-<license>CC BY-NC-ND 3.0</license>
+<license>CC-BY-3.0</license>
 <optout>false</optout>
 </recording>
 <title>Practical EMV PIN interception and fraud detection</title>
@@ -431,7 +432,7 @@ In our recent paper [1] we show that this objective has not been achieved yet: W
 
 Besides the academic relevance of breaking common SSL/TLS implementations, the timing attacks we performed are quite interesting for the hacking community. In our talk, we will thus focus on the challenges we had to solve during our attacks and on the challenges of fixing these issues.
 
-The talk extends the topics that I presented at 28c3 [1] and 29c3 [2].
+The talk extends the topics that I presented at 28c3 [2] and 29c3 [3].
 
 [1]: Revisiting SSL/TLS Implementations: New Bleichenbacher Side Channels and Attacks.
 Meyer, Somorovsky, Weiss, Schwenk, Schinzel, Tews.
@@ -478,7 +479,7 @@ Despite claims of its obsolescence, electrical glitching can be a viable attack 
 <start>18:30</start>
 <duration>01:00</duration>
 <room>Saal 2</room>
-<slug>31c3_-_6180_-_en_-_saal_2_-_201412271830_-_rocket_science_how_hard_can_it_be_-_david_madlener</slug>
+<slug>31c3_-_6180_-_en_-_saal_2_-_201412271830_-_rocket_science_how_hard_can_it_be_-_david_madlener_-_sean</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -492,6 +493,7 @@ Despite claims of its obsolescence, electrical glitching can be a viable attack 
 <description>We are the Forschungsgemeinschaft Alternative Raumfahrt e. V. (Research Community on Alternative Space Travel) or FAR for short, and have been working on feasible ways into space since our foundation in August 2003. After extensive experimentation with solid and hybrid propulsion systems on the ground, we developed the sounding rocket family &quot;Arguna&quot;. Since 2005 four different versions have been designed, built, and flown with different payloads. After a short review of basic rocket science and an outline of common propulsion technologies, we will report on the results of performed flights and experiments, especially of our latest sounding rocket Arguna IV.</description>
 <persons>
 <person id='3008'>David Madlener</person>
+<person id='5361'>Sean</person>
 </persons>
 <links>
 </links>
@@ -523,6 +525,10 @@ We are calling out to you, to develop an interesting payload, that we could pote
 <person id='3052'>Robert</person>
 </persons>
 <links>
+<link href='http://ptscientists.com/go/space'>To the moon!</link>
+<link href='https://twitter.com/ptscientists'>Twitter</link>
+<link href='https://www.facebook.com/PartTimeScientists'>Facebook</link>
+<link href='https://plus.google.com/107778888097122544837'>Google Plus</link>
 </links>
 </event>
 <event guid='_lVlmBO98KMg4M-n-_A3FA' id='6103'>
@@ -745,6 +751,8 @@ We will also discuss technical challenges in the CPI prototype implementation, p
 </persons>
 <links>
 <link href='http://levee.epfl.ch/'>Code-Pointer Integrity project</link>
+<link href='https://github.com/cpi-llvm'>GitHub</link>
+<link href='http://nebelwelt.net/publications/14OSDI/'>Code-Pointer Integrity (2)</link>
 </links>
 </event>
 <event guid='H_jf4nwFLZMEY7zwBlrehA' id='6195'>
@@ -1020,7 +1028,7 @@ Auf dem 31c3 wollen wir unsere Erfahrungen mit euch teilen. Zudem werden Teilneh
 <room>Saal 6</room>
 <slug>31c3_-_6530_-_en_-_saal_6_-_201412272145_-_in_security_of_mobile_banking_-_ericfiliol_-_paul_irolla</slug>
 <recording>
-<license>Creative Commons BY-NC-SA</license>
+<license>CC-BY-3.0</license>
 <optout>false</optout>
 </recording>
 <title>(In)Security of Mobile Banking</title>
@@ -1050,7 +1058,7 @@ This talk contains demos and operational results on existing apps.
 <room>Saal 6</room>
 <slug>31c3_-_6531_-_en_-_saal_6_-_201412272300_-_ss7map_mapping_vulnerability_of_the_international_mobile_roaming_infrastructure_-_laurent_ghigonis_-_alexandre_de_oliveira</slug>
 <recording>
-<license>Creative Commons by NC/SA</license>
+<license>CC-BY-3.0</license>
 <optout>false</optout>
 </recording>
 <title>SS7map : mapping vulnerability of the international mobile roaming infrastructure</title>
@@ -1202,6 +1210,8 @@ Own your own critical infrastructures today!
 <person id='2680'>saper</person>
 </persons>
 <links>
+<link href='http://pinboard.in/t:BeyondPNR'>Collection of #BeyondPNR links</link>
+<link href='http://saper.info/talk/31c3'>Slide deck online</link>
 </links>
 </event>
 <event guid='yMuYr5eW4o9FpJMw-NwXrg' id='6344'>
@@ -1784,7 +1794,7 @@ Coins ihren Wert verlieren?
 <room>Saal 2</room>
 <slug>31c3_-_6541_-_en_-_saal_2_-_201412281730_-_forging_the_usb_armory_-_andrea_barisani</slug>
 <recording>
-<license>CC BY-NC-ND 3.0</license>
+<license>CC-BY-3.0</license>
 <optout>false</optout>
 </recording>
 <title>Forging the USB armory</title>
@@ -1932,7 +1942,7 @@ Wonder no longer. As a young SIGINT analyst straight out of college in the 1980'
 <start>23:00</start>
 <duration>01:00</duration>
 <room>Saal 2</room>
-<slug>31c3_-_6291_-_en_-_saal_2_-_201412282300_-_doing_right_by_sources_done_right_-_sarah_harrison_-_gracefire</slug>
+<slug>31c3_-_6291_-_en_-_saal_2_-_201412282300_-_doing_right_by_sources_done_right_-_sarah_harrison_-_grace_north</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -1959,7 +1969,31 @@ These lessons give us a better understanding of what has gone right and wrong wi
 </description>
 <persons>
 <person id='5055'>Sarah Harrison</person>
-<person id='4690'>gracefire</person>
+<person id='4690'>Grace North</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='74711c06-8813-4158-b102-36dbbe374d13' id='6606'>
+<date>2014-12-29T00:15:00+01:00</date>
+<start>00:15</start>
+<duration>01:30</duration>
+<room>Saal 2</room>
+<slug>31c3_-_6606_-_de_-_saal_2_-_201412290015_-_fnord_news_show_stream_-_fefe_-_frank_rieger</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Fnord News Show (Stream)</title>
+<subtitle>Wir helfen Euch die Fnords zu sehen.</subtitle>
+<track>Entertainment</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Im Format einer lockeren Abendshow werden wir die Nachrichten-Highlights des Jahres präsentieren, die Meldungen zwischen den Meldungen, die subtilen Sensationen hinter den Schlagzeilen.</abstract>
+<description>Kommen Sie, hören Sie, sehen Sie! Lassen Sie sich mitreißen!</description>
+<persons>
+<person id='1621'>Fefe</person>
+<person id='5183'>Frank Rieger</person>
 </persons>
 <links>
 </links>
@@ -2571,13 +2605,6 @@ LINK: 28C3 Open-BCI talk video&lt;/a&gt;
 - - - -
 &lt;br&gt;
 
-not we are affiliated with
-the commercial copy of the project 
-OpenBCI.com™ from New York,
- 
-and not do we support their products 
-like the TI consumer EEG chip 
-breakout-board at this time. 
 
 
 + + +
@@ -2608,34 +2635,6 @@ youtube: http://bit.ly/ZijrIv
 <link href='http://video-talk-28c3.open-bci.org'>28C3 talk video </link>
 <link href='http://kickstarter.open-bci.org'>brain-Du1n0 kickstarter</link>
 <link href='http://youtu.be/EbBGiqU6l28?list=PLbbCsk7MUIGcO_lZMbyymWU2UezVHNaMq'>Modern-BCI-Tech DataAnalysis INTRO</link>
-</links>
-</event>
-<event guid='k2KTQo74HOCo2rjkWtETwQ' id='6365'>
-<date>2014-12-28T19:00:00+01:00</date>
-<start>19:00</start>
-<duration>00:30</duration>
-<room>Saal 6</room>
-<slug>31c3_-_6365_-_en_-_saal_6_-_201412281900_-_blow_stuff_up_with_your_brain_-_merlin_alex_glowaski</slug>
-<recording>
-<license>CC BY SA</license>
-<optout>false</optout>
-</recording>
-<title>Blow Stuff Up With Your Brain</title>
-<subtitle>Or: Hackers who stare at goats</subtitle>
-<track>Hardware &amp; Making</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>Come and learn about building wireless, mesh-networked devices controlled by your brainwaves. After the presentation, there will be a short (and percussive) demo.</abstract>
-<description>I've been hacking consumer EEG systems since 2012, building brainwave-controlled wearable animatronic wings, LEDs, and mini-helicopters. Now, let's take it to the next level with this new demonstration: Hackers Who Stare At Goats!
-
-The talk starts with a presentation about the different consumer EEG devices available, choosing the best technology for your project, and how to hack these devices and control wireless hardware and software with the Pinoccio microcontroller. (I've given a similar presentation recently at EMF Camp and at Hackeriet in Oslo, in response to many inquiries from people who want to explore EEG hacking – an increasingly popular biofeedback technology.) After that, a short demonstration, which is a nod to the book/film &quot;The Men Who Stare At Goats&quot;. :)
-
-The talk should be of particular interest to those involved in the quantified self movement, personal data tracking, meditation, and wireless mesh sensor networks.</description>
-<persons>
-<person id='5085'>merlin (Alex Glowaski)</person>
-</persons>
-<links>
-<link href='http://www.alexglow.com/bring-out-your-brains-eeg-hacking/'>Guide to EEG tech on my blog, Breadboard Dreams</link>
 </links>
 </event>
 <event guid='MBpSOQzfPD4ky0hqL6B-hg' id='5997'>
@@ -2992,7 +2991,7 @@ This talk will spawn a wormhole 20 years into the past, and dive into some of th
 <room>Saal 1</room>
 <slug>31c3_-_5966_-_en_-_saal_1_-_201412292245_-_unhash_-_methods_for_better_password_cracking_-_tonimir_kisasondi</slug>
 <recording>
-<license>CC</license>
+<license>CC-BY-3.0</license>
 <optout>false</optout>
 </recording>
 <title>UNHash - Methods for better password cracking</title>
@@ -3054,7 +3053,7 @@ And why they are failures and why there is an urgent need to fix them.</descript
 <start>00:15</start>
 <duration>02:00</duration>
 <room>Saal 1</room>
-<slug>31c3_-_6226_-_de_-_saal_1_-_201412300015_-_googlequiz_2015er_edition_-_joran_muuss-merholz_-_ralf_appelt_net_-_blanche_fabri_-_it4n6</slug>
+<slug>31c3_-_6226_-_de_-_saal_1_-_201412300015_-_googlequiz_2015er_edition_-_joran_muuss-merholz_-_ralf_appelt_-_blanche_fabri_-_it4n6_-_martin_kronke</slug>
 <recording>
 <license></license>
 <optout>true</optout>
@@ -3073,9 +3072,10 @@ Die Vorbilder, von denen die 2015er Edition inspiriert ist, heißen: Der Preis i
 Die Dinge, die beim #30c3 neu und gut waren, werden ausgebaut: laute, irritierende Musik sowie laute, irritierende Luftballons.</description>
 <persons>
 <person id='3584'>Jöran Muuß-Merholz</person>
-<person id='5347'>ralf@appelt.net</person>
+<person id='5347'>Ralf Appelt</person>
 <person id='3693'>Blanche Fabri</person>
 <person id='3706'>it4n6</person>
+<person id='5365'>Martin Krönke</person>
 </persons>
 <links>
 <link href='http://googlequiz.de'>googlequiz.de</link>
@@ -4084,6 +4084,41 @@ UA: 03. Juli 2014, c-base Berlin</description>
 </day>
 <day date='2014-12-30' end='2014-12-31T04:00:00+01:00' index='4' start='2014-12-30T11:30:00+01:00'>
 <room name='Saal 1'>
+<event guid='6b94aab7-5909-4662-99f8-1a990c247bb1' id='6602'>
+<date>2014-12-30T11:30:00+01:00</date>
+<start>11:30</start>
+<duration>01:00</duration>
+<room>Saal 1</room>
+<slug>31c3_-_6602_-_en_-_saal_1_-_201412301130_-_the_case_of_chelsea_manning_-_alexa_o_brien_-_nancy_hollander_-_ahmed_ghappour_-_chase_strangio</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>The case of Chelsea Manning</title>
+<subtitle></subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>A discussion with U.S. Army private Chelsea Manning's attorneys Nanny Hollander, Ahmed Ghappour, and Chase Strangio.
+Moderated by journalist Alexa O'Brien.</abstract>
+<description>In the Summer of 2013,  Manning was convicted under the Espionage and Computer Fraud and Abuse Acts and sentenced to 35 years in prison for disclosing battlefield reports from the wars in Iraq and Afghanistan, Guantanamo prison camp detainee profiles, and U.S. diplomatic correspondence.  She currently is imprisoned at the U.S. Disciplinary Barracks at Fort Leavenworth, Kansas.
+
+During her pretrial confinement before her trial, the U.N. Special Rapporteur on Torture ruled Manning'treatment at Quantico Brig was cruel and unusual.
+
+She is now suing the Department of Defense to provide adequate medical care for her gender dysphoria, which she was diagnoised with four years ago before her arrest by a U.S. Army doctor.
+
+Manning is now appealing her conviction in the U.S. Army Court of Criminal Appeals.
+
+This discussion will explain Manning's current situation and legal fights and how you can help this brave military whistleblower.</description>
+<persons>
+<person id='5303'>Alexa O´Brien</person>
+<person id='5304'>Nancy Hollander</person>
+<person id='5364'>Ahmed Ghappour</person>
+<person id='5366'>Chase Strangio</person>
+</persons>
+<links>
+</links>
+</event>
 <event guid='ad722522-5817-4317-8f3d-bb443b4e6c77' id='6574'>
 <date>2014-12-30T12:45:00+01:00</date>
 <start>12:45</start>
@@ -4293,12 +4328,38 @@ In order to relate effectively to the digital works we see online,  attribution 
 <link href='http://elog.io'>Elog.io</link>
 </links>
 </event>
+<event guid='4_Q4s48yg8FV08kvf9lbpQ' id='6397'>
+<date>2014-12-30T14:00:00+01:00</date>
+<start>14:00</start>
+<duration>01:00</duration>
+<room>Saal 2</room>
+<slug>31c3_-_6397_-_en_-_saal_2_-_201412301400_-_let_s_encrypt_-_seth_schoen</slug>
+<recording>
+<license>CC-BY-3.0</license>
+<optout>false</optout>
+</recording>
+<title>Let's Encrypt</title>
+<subtitle> A Free Robotic Certificate Authority</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>As we've called for widespread use of HTTPS, the cost and complexity of the certificate system has been an obstacle.</abstract>
+<description>In 2015, a certificate authority, trusted by mainstream web browsers, will issue certificates for web servers automatically at no charge in under a minute. This CA will automatically perform Domain Validation (DV) to verify applicants' control over domain names. The associated software can optionally reconfigure their web servers and deploy the new certificates immediately.
+
+We'll take a look at how the Let's Encrypt CA works, our ACME protocol for requesting and issuing certs, and the client software that can automate the process. And we'll demonstrate what the experience of getting a cert from the new CA may look like for webmasters (don't look away, or you might miss it!). We'll also talk about who's behind Let's Encrypt and some of the measures we're considering for preventing misissuance of certs. Of course, you're invited to test and help perfect the process.</description>
+<persons>
+<person id='51'>Seth Schoen</person>
+</persons>
+<links>
+<link href='https://www.letsencrypt.org/'>Let’s Encrypt</link>
+</links>
+</event>
 <event guid='87b8f1ba-1f05-46c2-93ac-b575bbc9fb4f' id='6597'>
 <date>2014-12-30T16:00:00+01:00</date>
 <start>16:00</start>
 <duration>01:00</duration>
 <room>Saal 2</room>
-<slug>31c3_-_6597_-_en_-_saal_2_-_201412301600_-_now_i_sprinkle_thee_with_crypto_dust_-_ryan_lackey_-_andres_erbsen_-_jurre_van_bergen_-_ladar_levison_-_equinox</slug>
+<slug>31c3_-_6597_-_en_-_saal_2_-_201412301600_-_now_i_sprinkle_thee_with_crypto_dust_-_ryan_lackey_-_andres_erbsen_-_jurre_van_bergen_-_ladar_levison_-_equinox_-_daniel_ziegler</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -4335,6 +4396,7 @@ Replacing 100 CA hierarchies with the single DNS hierarchy, and how the bite ref
 <person id='3519'>Jurre van Bergen</person>
 <person id='4933'>Ladar Levison</person>
 <person id='4730'>equinox</person>
+<person id='5081'>Daniel Ziegler</person>
 </persons>
 <links>
 </links>
@@ -4543,34 +4605,6 @@ If you want to learn about the machines that decrypt your passwords in the comin
 <link href='http://241568.website.snafu.de/wordpress/'>Podcast: Methodisch inkorrekt</link>
 </links>
 </event>
-<event guid='4_Q4s48yg8FV08kvf9lbpQ' id='6397'>
-<date>2014-12-30T14:00:00+01:00</date>
-<start>14:00</start>
-<duration>01:00</duration>
-<room>Saal 6</room>
-<slug>31c3_-_6397_-_en_-_saal_6_-_201412301400_-_let_s_encrypt_-_seth_schoen</slug>
-<recording>
-<license>CC-BY-3.0</license>
-<optout>false</optout>
-</recording>
-<title>Let's Encrypt</title>
-<subtitle> A Free Robotic Certificate Authority</subtitle>
-<track>Ethics, Society &amp; Politics</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>As we've called for widespread use of HTTPS, the cost and complexity of the certificate system has been an obstacle.</abstract>
-<description>In 2015, a certificate authority, trusted by mainstream web browsers, will issue certificates for web servers automatically at no charge in under a minute. This CA will automatically perform Domain Validation (DV) to verify applicants' control over domain names. The associated software can optionally reconfigure their web servers and deploy the new certificates immediately.
-
-We'll take a look at how the Let's Encrypt CA works, our ACME protocol for requesting and issuing certs, and the client software that can automate the process. And we'll demonstrate what the experience of getting a cert from the new CA may look like for webmasters (don't look away, or you might miss it!). We'll also talk about who's behind Let's Encrypt and some of the measures we're considering for preventing misissuance of certs. Of course, you're invited to test and help perfect the process.</description>
-<persons>
-<person id='51'>Seth Schoen</person>
-</persons>
-<links>
-<link href='https://www.eff.org/https-everywhere'>HTTPS Everywhere</link>
-<link href='https://www.eff.org/encrypt-the-web-report'>Encrypt the Web Report</link>
-<link href='https://github.com/EFForg/starttls-everywhere'>STARTTLS Everywhere</link>
-</links>
-</event>
 <event guid='9RncwfCW37x4dhs15BQqBQ' id='6297'>
 <date>2014-12-30T16:00:00+01:00</date>
 <start>16:00</start>
@@ -4597,6 +4631,30 @@ We will also discuss critical details of live memory introspection and highlight
 <persons>
 <person id='5060'>Tamas K Lengyel</person>
 <person id='5314'>Thomas Kittel</person>
+</persons>
+<links>
+</links>
+</event>
+<event guid='78d34ebe-e910-4d26-98e3-71c0f07cedb6' id='6607'>
+<date>2014-12-30T17:15:00+01:00</date>
+<start>17:15</start>
+<duration>01:00</duration>
+<room>Saal 6</room>
+<slug>31c3_-_6607_-_de_-_saal_6_-_201412301715_-_security_nightmares_stream_-_frank_rieger_-_ron</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Security Nightmares (Stream)</title>
+<subtitle>Damit Sie auch morgen schlecht von Ihrem Computer träumen.</subtitle>
+<track>Entertainment</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Was hat sich im letzten Jahr im Bereich IT-Sicherheit getan? Welche neuen Entwicklungen haben sich ergeben? Welche neuen Buzzwords und Trends waren zu sehen?</abstract>
+<description>Wie immer wagen wir den IT-Security-Alptraum-Ausblick auf das Jahr 2015 und darüberhinaus. Denn was wir wirklich wissen wollen, ist ja schließlich: Was kriecht, krabbelt und fliegt in Zukunft auf uns zu und in unseren digitalen Implants herum? Im Zuge von noch mehr Transparenz, Kritik &amp; Selbstkritik und kontinuierlicher nachhaltiger Optimierung aller Prozesse werden wir außerdem frühere Voraussagen hinsichtlich des Eintreffens unserer Weissagungen prüfen.</description>
+<persons>
+<person id='5183'>Frank Rieger</person>
+<person id='384'>Ron</person>
 </persons>
 <links>
 </links>
