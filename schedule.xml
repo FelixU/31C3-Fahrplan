@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <schedule>
-<version>1.4 Travel through time and space</version>
+<version>1.5 To shine in a bright light</version>
 <conference>
 <acronym>31c3</acronym>
 <title>31. Chaos Communication Congress</title>
@@ -151,6 +151,7 @@ Such information is vital to enable cardholders to request the correct and relev
 <person id='4941'>Andrea Barisani</person>
 </persons>
 <links>
+<link href='http://dev.inversepath.com/download/emv/emv_2014.pdf'>Slides - Practical EMV PIN interception and fraud detection</link>
 </links>
 </event>
 <event guid='-n9QScyDLXMEwkqrCHASYw' id='6249'>
@@ -355,8 +356,9 @@ Code reviews, comments, contributions are always welcome.</description>
 <link href='https://github.com/mirleft/ocaml-tls'>OCaml-TLS source code</link>
 <link href='http://openmirage.org/blog/announcing-mirage-20-release'>Mirage 2.0 release</link>
 <link href='http://openmirage.org/blog/introducing-ocaml-tls'>Blog entry about OCaml-TLS</link>
-<link href='http://docs.cubieboard.org/products/start'>Cubieboard 2</link>
+<link href='https://github.com/hannesm/jackline'>Jackline source repository</link>
 <link href='https://github.com/mirleft'>Mirleft source code</link>
+<link href='http://decks.openmirage.org/31c3/'>Slides</link>
 </links>
 </event>
 <event guid='419d4f7e-7506-4d46-8700-e47e164a8e32' id='6584'>
@@ -1813,6 +1815,7 @@ The presentation will cover the journey that we have taken to develop the USB ar
 <links>
 <link href='http://inversepath.com/usbarmory'>USB armory project</link>
 <link href='https://github.com/inversepath/usbarmory'>USB armory github</link>
+<link href='http://dev.inversepath.com/download/usbarmory/forging_the_usb_armory.pdf'>Presentation</link>
 </links>
 </event>
 <event guid='lcqCv-SWZ2OTU7b2xqw9tg' id='6202'>
@@ -2730,6 +2733,7 @@ Ben Dalton is an artist and academic researcher trained in physics, electronics 
 </persons>
 <links>
 <link href='http://futureeverything.org/events/nopayphone/'>Project page at FutureEverything 2014</link>
+<link href='http://skreened.com/dumbstuff/mouse-character'>link to the t-shirt I was wearing</link>
 </links>
 </event>
 </room>
@@ -2801,7 +2805,7 @@ This talk will discuss these threats and the possible solutions.
 <start>16:00</start>
 <duration>01:00</duration>
 <room>Saal 1</room>
-<slug>31c3_-_6342_-_de_-_saal_1_-_201412291600_-_deine_rechte_sind_in_diesen_freihandelsabkommen_nicht_verfugbar_-_katharina_nocun</slug>
+<slug>31c3_-_6342_-_de_-_saal_1_-_201412291600_-_deine_rechte_sind_in_diesen_freihandelsabkommen_nicht_verfugbar_-_katharina_nocun_-_maritta_strasser</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -2821,6 +2825,7 @@ Doch dann trat das Unvorstellbare ein: Die EU-Kommission will die Europäische B
 Wir zeigen, an welchen Stellen sich die Abkommen TTIP und CETA auf Netzpolitik, Datenschutz und Demokratie auswirken können, wie der kreative Protest sich mit digitalen Mitteln organisiert hat und und wie andere Kampagnen von diesen Erfahrungen möglicherweise profitieren können – und selbstverständlich auch, was die nächsten Schritte sein werden.</description>
 <persons>
 <person id='3869'>Katharina Nocun</person>
+<person id='5367'>Maritta Strasser</person>
 </persons>
 <links>
 <link href='https://www.campact.de'>Campact e. V.</link>
@@ -4293,6 +4298,8 @@ Starting with initial thoughts on the speed limits of common cameras and how to 
 <person id='4689'>polygon</person>
 </persons>
 <links>
+<link href='flickr.com/derpoly'>Flickr Gallery</link>
+<link href='twitter.com/ploynog'>Twitter</link>
 </links>
 </event>
 <event guid='aUcSuwZ2iMoJQMEL40opIw' id='6214'>
@@ -4358,7 +4365,7 @@ We'll take a look at how the Let's Encrypt CA works, our ACME protocol for reque
 <start>16:00</start>
 <duration>01:00</duration>
 <room>Saal 2</room>
-<slug>31c3_-_6597_-_en_-_saal_2_-_201412301600_-_now_i_sprinkle_thee_with_crypto_dust_-_ryan_lackey_-_andres_erbsen_-_jurre_van_bergen_-_ladar_levison_-_equinox_-_daniel_ziegler</slug>
+<slug>31c3_-_6597_-_en_-_saal_2_-_201412301600_-_now_i_sprinkle_thee_with_crypto_dust_-_ryan_lackey_-_andres_erbsen_-_jurre_van_bergen_-_ladar_levison_-_equinox_-_daniel_ziegler_-_gedsic</slug>
 <recording>
 <license></license>
 <optout>false</optout>
@@ -4396,6 +4403,7 @@ Replacing 100 CA hierarchies with the single DNS hierarchy, and how the bite ref
 <person id='4933'>Ladar Levison</person>
 <person id='4730'>equinox</person>
 <person id='5081'>Daniel Ziegler</person>
+<person id='5263'>gedsic</person>
 </persons>
 <links>
 </links>
@@ -4431,36 +4439,6 @@ Finally, I will explain the main classes of attacks useful for deanonymising the
 </event>
 </room>
 <room name='Saal G'>
-<event guid='pf1A5mcF9V6zx8ZYD6qUig' id='6550'>
-<date>2014-12-30T11:30:00+01:00</date>
-<start>11:30</start>
-<duration>01:00</duration>
-<room>Saal G</room>
-<slug>31c3_-_6550_-_en_-_saal_g_-_201412301130_-_podcasting_with_podlove_-_tim_pritlove</slug>
-<recording>
-<license>CC0</license>
-<optout>false</optout>
-</recording>
-<title>Podcasting with Podlove </title>
-<subtitle>Introduction to publishing with and standards of the Podlove project</subtitle>
-<track>Hardware &amp; Making</track>
-<type>lecture</type>
-<language>en</language>
-<abstract>The Podlove Project wants to lift podcast publishing on a new level by producing software, standards and specifications. Tim Pritlove introduces using Podlove Publisher, the Podlove Web Player, the Podlove Subscribe Button and other parts of the Podlove Infrastructure.</abstract>
-<description>Audio podcasting is an ever growing media phenomenon that is addressing certain cultural and media niches in a very effective manner and invites a well-informed, neophile  audience. The flexibility provided by podcasting supports new ways of consuming media and has nurtured an enthusiastic community.
-
-The Podlove Project advances podcast publishing by providing a stable and flexible publishing solution (Podlove Publisher), a podcast-centric and metadata-aware web player (Podlove Web Player), a simple web-based podcast subscription solution (Podlove Subscribe Button) and other tools to improve the overall podcasting infrastructure while making it easy for podcasters to put out their content.
-
-Podlove standards try to address future of podcasting. Podlove Deep Links allow linking directly to specific time codes in media content on the web. Podlove Simple Chapters enhance the structure of podcasts by defining chapters. The upcoming Podlove Syndication Extensions want to improve podcast feeds for usage in directories and podcast apps. Other projects like the Podlove Validator and Podlove Matrix are on the horizon and will be mentioned in the talk as well.
-
-This talk is for everybody interested in either podcasting in general or specifically in advancing the technological infrastructure for podcasts.</description>
-<persons>
-<person id='3809'>Tim Pritlove</person>
-</persons>
-<links>
-<link href='http://podlove.org'>Project Podlove</link>
-</links>
-</event>
 <event guid='f69efb76-d030-4371-83e1-d7b2b8d408b9' id='6580'>
 <date>2014-12-30T12:45:00+01:00</date>
 <start>12:45</start>
@@ -4570,7 +4548,7 @@ The aim of this talk is twofold. First, we shall look at Norway's Internet votin
 <person id='4973'>Tor E. Bjørstad</person>
 </persons>
 <links>
-<link href='http://www.regjeringen.no/en/dep/kmd/prosjekter/e-vote-trial.html'>The Norwegian e-vote trial</link>
+<link href='https://www.regjeringen.no/en/dep/kmd/prosjekter/e-vote-trial/id597658/'>The Norwegian e-vote trial</link>
 </links>
 </event>
 <event guid='yN_BHtGEljjFHh2dl-Irug' id='6157'>
